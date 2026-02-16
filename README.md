@@ -3,7 +3,7 @@
 <div align="center">
   
 ### 🐱 Data Scientist | Cat Lover | Вечный Студент 📚
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/senatorov1)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](www.kaggle.com/sergeystuliev)
 
 *"Любопытство — двигатель прогресса (и оно точно не убило кота!)"*
 
