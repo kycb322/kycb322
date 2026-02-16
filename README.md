@@ -22,39 +22,12 @@
 
 ---
 
-## 🛠️ Технологии и инструменты
-
-```python
-skills = {
-    "languages": ["Python", "SQL"],
-    "data_analysis": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "machine_learning": ["Scikit-learn", "TensorFlow/Keras"],
-    "tools": ["Jupyter", "Git", "VS Code"],
-    "learning_now": ["Deep Learning", "NLP", "MLOps"],
-    "cat_debugging_level": "Expert 🐱"
-}
-```
-
----
-
 ## 🌱 Сейчас изучаю
 
 - 🎯 Углубленное машинное обучение и нейронные сети
 - 📈 Продвинутую визуализацию данных
 - 🔧 Best practices в ML проектах
 - 🌐 Новые библиотеки и фреймворки
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![kycb322's GitHub stats](https://github-readme-stats.vercel.app/api?username=kycb322&show_icons=true&theme=tokyonight)
-
-</div>
-
----
 
 ## 🐾 Интересный факт
 
@@ -67,6 +40,7 @@ skills = {
 Всегда рад новым знакомствам, коллаборациям и обмену опытом!
 
 - 💬 GitHub: [@kycb322](https://github.com/kycb322)
+- 💬 Telegram: [@kycb322](https://t.me/kycb322)
 - 📧 Открыт для предложений и обратной связи
 
 ---
