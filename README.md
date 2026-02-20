@@ -20,4 +20,5 @@ I'm learning to build useful models and document every step of the journey.
 **Fun Facts:**
 - I'm a cat lover but I'm allergic
 - Breaking Bad is my favorite television series
-- **Hobbies:** gym and films
+
+**Hobbies:** gym and films
